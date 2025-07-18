@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Hi, I am Mehmet Erdem. 
+I'm a computer engineering student at Istanbul Ticaret University (3.grade).
+
